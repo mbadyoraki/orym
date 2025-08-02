@@ -1,2 +1,3 @@
-# orym
-Smart Lyric Engine
+# ORYM App
+
+This is the ORYM Music App.
